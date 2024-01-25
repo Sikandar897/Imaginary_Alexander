@@ -8,6 +8,12 @@ Imaginary Alexander is a versatile Flutter application that provides both a Chat
 
 - **Text Prompt ✨:** Generate AI images by providing text prompts. The app seamlessly connects to the platform.imagine.art API to transform your ideas into captivating visuals.
 
+## State Management and Architecture
+
+- **State Management:** Utilizes the Provider package for efficient state management.
+
+- **Architecture:** Implements the MVVM (Model-View-ViewModel) architecture for a clean and scalable codebase.
+
 ## Getting Started
 
 ### For Chat Bot
@@ -47,6 +53,6 @@ Imaginary Alexander is a versatile Flutter application that provides both a Chat
 
 - **Animated Splash Screen:** Enjoy a visually appealing animated splash screen when launching the app.
 
-Feel free to explore, contribute, and enhance Imaginary Alexander based on your needs.
+Contributors are welcome! Happy coding! 🚀
 
-**Contributors are welcome! Happy coding! 🚀**
+Feel free to explore, contribute, and enhance Imaginary Alexander based on your needs.
