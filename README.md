@@ -1,5 +1,5 @@
 # Imaginary Alexander 🌟
-
+![](https://raw.githubusercontent.com/Sikandar897/imaginary_alexander/master/assets/Picsart_24-01-26_04-34-43-804.jpg)
 Imaginary Alexander is a versatile Flutter application that provides both a Chat Bot and Text Prompt features. The app utilizes the platform.imagine.art API for generating AI images based on text prompts.
 
 ## Features
